@@ -15,6 +15,9 @@ We have designed the tool in ArcGIS for selecting the capacitated facilities and
 # How to use the tool
 1. In ArcGIS, nevigate to the file directory, click the tool. 
 2. Set problem and solver parameters, and then run the tool. 
+# ArcGIS tool and result
+![AcrGIS tool for LAP](https://raw.githubusercontent.com/yfkong/SAPARCGIS/master/flsap.png)
+![Facilities and service areas](https://raw.githubusercontent.com/yfkong/SAPARCGIS/master/lap_result.png)
 # Contact:
 1. E-mail: yfkong@henu.edu.cn
 2. Dr. Yunfeng Kong, Henan Univeristy, China 

@@ -5,7 +5,7 @@ The facility site selection and the design of service areas is one of the essent
 We have designed the tool in ArcGIS for selecting the capacitated facilities and delineating their service areas. Three algorithms are surpported:
 1. Local-search based metaheuristic - ILS;
 2. Population based metaheuristic - GA;
-3. Nixed Integer Linear programming - MIP.
+3. Mixed Integer Linear programming - MIP.
 
 # Install the software:
 1. PuLP 1.6.0 (https://pypi.org/project/PuLP/) (optional but recommended);
@@ -21,4 +21,4 @@ We have designed the tool in ArcGIS for selecting the capacitated facilities and
 # Contact:
 1. E-mail: yfkong@henu.edu.cn
 2. Dr. Yunfeng Kong, Henan Univeristy, China 
-# Sponsored by the National Science Foundation of China (no. 41871307)
+# Sponsored by the National Natural Science Foundation of China (no. 41871307)
